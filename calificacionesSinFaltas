@@ -20,7 +20,7 @@
                             ]
                 },
                 {
-                  "clave_materia": : "002",
+                  "clave_materia": "002",
                   "nombre_materia": "Álgebra Lineal",
                   "promedio": 90,
                   "parcial":
