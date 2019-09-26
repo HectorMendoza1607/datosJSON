@@ -1,9 +1,10 @@
 [
   {
-    "periodo": "Ene-May de 2019"
+    "periodo":
     [
       {
-        "clave_materia": "001":
+        "periodo": ""Ene-May de 2019"",
+        "clave_materia": "mate001":
         [
           {
             "nombre_materia": "Comercio Electrónico",
