@@ -1,24 +1,26 @@
-"periodo": "Ene-May de 2019",
-"materias":
-[
-  {
-    "clave_materia": "mate001",
-    "nombre_materia": "Comercio Electrónico",
-    "promedio": 90
-  },
-  {
-    "clave_materia": "002",
-    "nombre_materia": "Álgebra Lineal",
-    "promedio": 90
-  },
-  {
-    "clave_materia": "003",
-    "nombre_materia": "Fundamentos de TI",
-    "promedio": 100
-  },
-  {
-    "clave_materia": "004",
-    "nombre_materia": "Base de datos",
-    "promedio": 90
-  }
-]
+{
+  "periodo": "Ene-May de 2019",
+  "materias":
+  [
+    {
+      "clave_materia": "mate001",
+      "nombre_materia": "Comercio Electrónico",
+      "promedio": 90
+    },
+    {
+      "clave_materia": "002",
+      "nombre_materia": "Álgebra Lineal",
+      "promedio": 90
+    },
+    {
+      "clave_materia": "003",
+      "nombre_materia": "Fundamentos de TI",
+      "promedio": 100
+    },
+    {
+      "clave_materia": "004",
+      "nombre_materia": "Base de datos",
+      "promedio": 90
+    }
+  ]
+}
