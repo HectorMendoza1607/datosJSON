@@ -1,0 +1,56 @@
+[
+  {
+    "clave_materia": "001",
+    "materia": "Comercio Electrónico",
+    "Lunes": "07:00 - 07:50",
+    "Martes": "10:40 - 11:30",
+    "Miercoles": "08:40 - 09:00",
+    "Jueves": "11:30 - 12:20",
+    "Viernes": "08:40 - 09:30"
+  },
+  {
+    "clave_materia": "002",
+    "materia": "Álgebra Lineal",
+    "Lunes": "07:50 - 08:40",
+    "Martes": "07:50 - 08:40",
+    "Miercoles": "11:30 - 13:20",
+    "Jueves": "08:40 - 09:30",
+    "Viernes": "14:10 - 15:00"
+  },
+  {
+    "clave_materia": "003",
+    "materia": "Fundamentos de TI",
+    "Lunes": "08:40 - 09:30",
+    "Martes": "",
+    "Miercoles": "",
+    "Jueves": "",
+    "Viernes": ""
+  },
+  {
+    "clave_materia": "004",
+    "materia": "Base de datos",
+    "Lunes": "09:50 - 10:40",
+    "Martes": "11:30 - 12:20",
+    "Miercoles": "09:50 - 10:40",
+    "Jueves": "09:50 - 10:40",
+    "Viernes": "10:40 - 11:30"
+  },
+  {
+    "clave_materia": "005",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "Lunes": "10:40 - 11:30",
+    "Martes": "14:10 - 15:00",
+    "Miercoles": "10:40 - 11:30",
+    "Jueves": "12:30 - 13:20",
+    "Viernes": "11:30 - 12:20"
+  },
+  {
+    "clave_materia": "006",
+    "materia": "Sistemas y Organizaciones",
+    "Lunes": "11:30 - 12:20",
+    "Martes": "08:40 - 09:30",
+    "Miercoles": "13:20 - 14:10",
+    "Jueves": "10:40 - 11:30",
+    "Viernes": "09:50 - 10:40"
+  }
+]
