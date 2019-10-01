@@ -1,0 +1,67 @@
+[
+  {
+    "lunes":
+    [
+      {
+        "materia": "Comercio Electrónico",
+        "hora": "07:00 - 07:50"
+      },
+      {
+        "materia": "Álgebra Lineal",
+        "hora": "07:50 - 08:40" 
+      }
+    ]
+  },
+  {
+    "martes":
+    [
+      {
+        "materia": "Comercio Electrónico",
+        "hora": "10:40 - 11:30"
+      },
+      {
+        "materia": "Álgebra Lineal",
+        "hora": "07:50 - 08:40" 
+      }
+    ]
+  },
+  {
+    "miercoles":
+    [
+      {
+        "materia": "Comercio Electrónico",
+        "hora": "07:00 - 07:50"
+      },
+      {
+        "materia": "Álgebra Lineal",
+        "hora": "07:50 - 08:40" 
+      }
+    ]
+  },
+  {
+    "jueves":
+    [
+      {
+        "materia": "Comercio Electrónico",
+        "hora": "07:00 - 07:50"
+      },
+      {
+        "materia": "Álgebra Lineal",
+        "hora": "07:50 - 08:40" 
+      }
+    ]
+  },
+  {
+    "viernes":
+    [
+      {
+        "materia": "Comercio Electrónico",
+        "hora": "07:00 - 07:50"
+      },
+      {
+        "materia": "Álgebra Lineal",
+        "hora": "07:50 - 08:40" 
+      }
+    ]
+  }
+]
