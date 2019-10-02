@@ -1,0 +1,26 @@
+[
+  {
+    "materia": "Comercio Electrónico",
+    "hora": "07:00 - 07:50"
+  },
+  {
+    "materia": "Álgebra Lineal",
+    "hora": "07:50 - 08:40"
+  },
+  {
+    "materia": "Fundamentos de TI",
+    "hora": "08:40 - 09:30"
+  },
+  {
+    "materia": "Base de datos",
+    "hora": "09:50 - 10:40"
+  },
+  {
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "materia": "Sistemas y Organizaciones",
+    "hora": "11:30 - 12:20"
+  }
+]
