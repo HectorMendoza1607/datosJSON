@@ -1,0 +1,132 @@
+[
+  {
+    "dia": "Lunes",
+    "materia": "Comercio Electrónico",
+    "hora": "07:00 - 07:50"
+  },
+  {
+    "dia": "Lunes",
+    "materia": "Álgebra Lineal",
+    "hora": "07:50 - 08:40"
+  },
+  {
+    "dia": "Lunes",
+    "materia": "Fundamentos de TI",
+    "hora": "08:40 - 09:30"
+  },
+  {
+    "dia": "Lunes",
+    "materia": "Base de datos",
+    "hora": "09:50 - 10:40"
+  },
+  {
+    "dia": "Lunes",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "dia": "Lunes",
+    "materia": "Sistemas y Organizaciones",
+    "hora": "11:30 - 12:20"
+  },
+  {
+    "dia": "Martes",
+    "materia": "Comercio Electrónico",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "dia": "Martes",
+    "materia": "Álgebra Lineal",
+    "hora": "07:50 - 08:40"
+  },
+  {
+    "dia": "Martes",
+    "materia": "Base de datos",
+    "hora": "11:30 - 12:20"
+  },
+  {
+    "dia": "Martes",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "14:10 - 15:00"
+  },
+  {
+    "dia": "Martes",
+    "materia": "Sistemas y Organizaciones",
+    "hora": "08:40 - 09:30"
+  },
+  {
+    "dia": "Miercoles",
+    "materia": "Comercio Electrónico",
+    "hora": "08:40 - 09:00"
+  },
+  {
+    "dia": "Miercoles",
+    "materia": "Álgebra Lineal",
+    "hora": "11:30 - 13:20"
+  },
+  {
+    "dia": "Miercoles",
+    "materia": "Base de datos",
+    "hora": "09:50 - 10:40"
+  },
+  {
+    "dia": "Miercoles",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "dia": "Miercoles",
+    "materia": "Sistemas y Organizaciones",
+    "hora": "13:20 - 14:10"
+  },
+  {
+    "dia": "Jueves",
+    "materia": "Comercio Electrónico",
+    "hora": "11:30 - 12:20"
+  },
+  {
+    "dia": "Jueves",
+    "materia": "Álgebra Lineal",
+    "hora": "08:40 - 09:30"
+  },
+  {
+    "dia": "Jueves",
+    "materia": "Base de datos",
+    "hora": "09:50 - 10:40"
+  },
+  {
+    "dia": "Jueves",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "12:30 - 13:20"
+  },
+  {
+    "dia": "Jueves",
+    "materia": "Sistemas y Organizaciones",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "dia": "Viernes",
+    "materia": "Comercio Electrónico",
+    "hora": "08:40 - 09:30"
+  },
+  {
+    "dia": "Viernes",
+    "materia": "Álgebra Lineal",
+    "hora": "14:10 - 15:00"
+  },
+  {
+    "dia": "Viernes",
+    "materia": "Base de datos",
+    "hora": "10:40 - 11:30"
+  },
+  {
+    "dia": "Viernes",
+    "materia": "Algoritmos y Estructuras de Datos",
+    "hora": "11:30 - 12:20"
+  },
+  {
+    "dia": "Viernes",
+    "materia": "Sistemas y Organizaciones",
+    "hora": "09:50 - 10:40"
+  }
+]
