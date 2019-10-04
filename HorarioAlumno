@@ -1,123 +1,111 @@
 [{
 		"materia": "Comercio Electrónico",
-		"dias": [{
-			"Lunes": [{
-				"hora": "07:00 - 07:50"
-			}, {
-				"hora": "14:00 - 15:00"
-			}],
-			"Martes": [{
-				"hora": "10:40 - 11:30"
-			}],
-			"Miercoles": [{
-				"hora": "08:40 - 09:00"
-			}],
-			"Jueves": [{
-				"hora": "11:30 - 12:20"
-			}],
-			"Viernes": [{
-				"hora": "08:40 - 09:30"
-			}]
+		"Lunes": [{
+			"hora": "07:00 - 07:50"
+		}, {
+			"hora": "14:00 - 15:00"
+		}],
+		"Martes": [{
+			"hora": "10:40 - 11:30"
+		}],
+		"Miercoles": [{
+			"hora": "08:40 - 09:00"
+		}],
+		"Jueves": [{
+			"hora": "11:30 - 12:20"
+		}],
+		"Viernes": [{
+			"hora": "08:40 - 09:30"
 		}]
 	},
 	{
 		"materia": "Álgebra Lineal",
-		"dias": [{
-			"Lunes": [{
-				"hora": "07:50 - 08:40"
-			}],
-			"Martes": [{
-				"hora": "07:50 - 08:40"
-			}],
-			"Miercoles": [{
-				"hora": "11:30 - 13:20"
-			}],
-			"Jueves": [{
-				"hora": "08:40 - 09:30"
-			}],
-			"Viernes": [{
-				"hora": "14:10 - 15:00"
-			}]
+		"Lunes": [{
+			"hora": "07:50 - 08:40"
+		}],
+		"Martes": [{
+			"hora": "07:50 - 08:40"
+		}],
+		"Miercoles": [{
+			"hora": "11:30 - 13:20"
+		}],
+		"Jueves": [{
+			"hora": "08:40 - 09:30"
+		}],
+		"Viernes": [{
+			"hora": "14:10 - 15:00"
 		}]
 	},
 	{
 		"materia": "Fundamentos de TI",
-		"dias": [{
-			"Lunes": [{
-				"hora": "08:40 - 09:30"
-			}],
-			"Martes": [{
-				"hora": ""
-			}],
-			"Miercoles": [{
-				"hora": ""
-			}],
-			"Jueves": [{
-				"hora": ""
-			}],
-			"Viernes": [{
-				"hora": ""
-			}]
+		"Lunes": [{
+			"hora": "08:40 - 09:30"
+		}],
+		"Martes": [{
+			"hora": ""
+		}],
+		"Miercoles": [{
+			"hora": ""
+		}],
+		"Jueves": [{
+			"hora": ""
+		}],
+		"Viernes": [{
+			"hora": ""
 		}]
 	},
 	{
 		"materia": "Base de datos",
-		"dias": [{
-			"Lunes": [{
-				"hora": "09:50 - 10:40"
-			}],
-			"Martes": [{
-				"hora": "11:30 - 12:20"
-			}],
-			"Miercoles": [{
-				"hora": "09:50 - 10:40"
-			}],
-			"Jueves": [{
-				"hora": "09:50 - 10:40"
-			}],
-			"Viernes": [{
-				"hora": "10:40 - 11:30"
-			}]
+		"Lunes": [{
+			"hora": "09:50 - 10:40"
+		}],
+		"Martes": [{
+			"hora": "11:30 - 12:20"
+		}],
+		"Miercoles": [{
+			"hora": "09:50 - 10:40"
+		}],
+		"Jueves": [{
+			"hora": "09:50 - 10:40"
+		}],
+		"Viernes": [{
+			"hora": "10:40 - 11:30"
 		}]
 	},
 	{
 		"materia": "Algoritmos y Estructuras de Datos",
-		"dias": [{
-			"Lunes": [{
-				"hora": "10:40 - 11:30"
-			}],
-			"Martes": [{
-				"hora": "14:10 - 15:00"
-			}],
-			"Miercoles": [{
-				"hora": "10:40 - 11:30"
-			}],
-			"Jueves": [{
-				"hora": "12:30 - 13:20"
-			}],
-			"Viernes": [{
-				"hora": "11:30 - 12:20"
-			}]
+		"Lunes": [{
+			"hora": "10:40 - 11:30"
+		}],
+		"Martes": [{
+			"hora": "14:10 - 15:00"
+		}],
+		"Miercoles": [{
+			"hora": "10:40 - 11:30"
+		}],
+		"Jueves": [{
+			"hora": "12:30 - 13:20"
+		}],
+		"Viernes": [{
+			"hora": "11:30 - 12:20"
 		}]
 	},
 	{
 		"materia": "Sistemas y Organizaciones",
-		"dias": [{
-			"Lunes": [{
-				"hora": "11:30 - 12:20"
-			}],
-			"Martes": [{
-				"hora": "08:40 - 09:30"
-			}],
-			"Miercoles": [{
-				"hora": "13:20 - 14:10"
-			}],
-			"Jueves": [{
-				"hora": "10:40 - 11:30"
-			}],
-			"Viernes": [{
-				"hora": "09:50 - 10:40"
-			}]
+		"Lunes": [{
+			"hora": "11:30 - 12:20"
+		}],
+		"Martes": [{
+			"hora": "08:40 - 09:30"
+		}],
+		"Miercoles": [{
+			"hora": "13:20 - 14:10"
+		}],
+		"Jueves": [{
+			"hora": "10:40 - 11:30"
+		}],
+		"Viernes": [{
+			"hora": "09:50 - 10:40"
 		}]
 	}
 ]
