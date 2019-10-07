@@ -1,67 +1,213 @@
-[
-  {
-    "lunes":
-    [
-      {
-        "materia": "Comercio Electrónico",
-        "hora": "07:00 - 07:50"
-      },
-      {
-        "materia": "Álgebra Lineal",
-        "hora": "07:50 - 08:40" 
-      }
-    ]
-  },
-  {
-    "martes":
-    [
-      {
-        "materia": "Comercio Electrónico",
-        "hora": "10:40 - 11:30"
-      },
-      {
-        "materia": "Álgebra Lineal",
-        "hora": "07:50 - 08:40" 
-      }
-    ]
-  },
-  {
-    "miercoles":
-    [
-      {
-        "materia": "Comercio Electrónico",
-        "hora": "07:00 - 07:50"
-      },
-      {
-        "materia": "Álgebra Lineal",
-        "hora": "07:50 - 08:40" 
-      }
-    ]
-  },
-  {
-    "jueves":
-    [
-      {
-        "materia": "Comercio Electrónico",
-        "hora": "07:00 - 07:50"
-      },
-      {
-        "materia": "Álgebra Lineal",
-        "hora": "07:50 - 08:40" 
-      }
-    ]
-  },
-  {
-    "viernes":
-    [
-      {
-        "materia": "Comercio Electrónico",
-        "hora": "07:00 - 07:50"
-      },
-      {
-        "materia": "Álgebra Lineal",
-        "hora": "07:50 - 08:40" 
-      }
-    ]
-  }
+[{
+		"materia": "Comercio Electrónico",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+						"hora": "07:00 - 07:50"
+					},
+					{
+						"hora": "14:00 - 15:00"
+					}
+				]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+					"hora": "10:40 - 11:30"
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+						"hora": "08:40 - 09:00"
+					},
+					{
+						"hora": "14:00 - 15:00"
+					}
+				]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+					"hora": "11:30 - 12:20"
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+					"hora": "08:40 - 09:30"
+				}]
+			}
+		]
+	},
+	{
+		"materia": "Álgebra Lineal",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+					"hora": "07:00 - 07:50"
+				}]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+					"hora": "07:50 - 08:40"
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+					"hora": "11:30 - 13:20"
+				}]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+					"hora": "08:40 - 09:30"
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+					"hora": "14:10 - 15:00"
+				}]
+			}
+		]
+	},
+	{
+		"materia": "Fundamentos de TI",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+					"hora": "08:40 - 09:30"
+				}]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+
+				}]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+
+				}]
+			}
+		]
+	},
+	{
+		"materia": "Base de datos",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+					"hora": "09:50 - 10:40"
+				}]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+					"hora": "11:30 - 12:20"
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+					"hora": "09:50 - 10:40"
+				}]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+					"hora": "09:50 - 10:40"
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+					"hora": "10:40 - 11:30"
+				}]
+			}
+		]
+	},
+	{
+		"materia": "Algoritmos y Estructuras de Datos",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+					"hora": "10:40 - 11:30"
+				}]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+					"hora": "14:10 - 15:00"
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+					"hora": "10:40 - 11:30"
+				}]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+					"hora": "12:30 - 13:20"
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+					"hora": "11:30 - 12:20"
+				}]
+			}
+		]
+	},
+	{
+		"materia": "Sistemas y Organizaciones",
+		"dias": [{
+				"dia": "Lunes",
+				"horas": [{
+					"hora": "11:30 - 12:20"
+				}]
+			},
+			{
+				"dia": "Martes",
+				"horas": [{
+					"hora": "08:40 - 09:30"
+				}]
+			},
+			{
+				"dia": "Miercoles",
+				"horas": [{
+					"hora": "13:20 - 14:10"
+				}]
+			},
+			{
+				"dia": "Jueves",
+				"horas": [{
+					"hora": "10:40 - 11:30"
+				}]
+			},
+			{
+				"dia": "Viernes",
+				"horas": [{
+					"hora": "09:50 - 10:40"
+				}]
+			}
+		]
+	}
 ]
