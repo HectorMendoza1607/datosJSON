@@ -1,6 +1,6 @@
 [
   {
-	"periodo": "Enero-Junio 2016",
+	"ciclo": "Enero-Junio 2016",
 	"promedio": "90",
 	"materias": 
 	[
@@ -49,7 +49,7 @@
 	]
   },
   {
-	"periodo": "Agosto-Diciembre 2016",
+	"ciclo": "Agosto-Diciembre 2016",
 	"promedio": "87",
 	"materias":
 	[
