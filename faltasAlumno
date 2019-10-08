@@ -1,44 +1,93 @@
-[
-  {
-    "clave_materia": "mate001",
-    "nombre_materia": "Comercio Electrónico",
-    "total_dias": 25,
-    "parcial1": 0,
-    "parcial2": 2
-  },
-  {
-    "clave_materia": "002",
-    "nombre_materia": "Álgebra Lineal",
-    "total_dias": 15,
-    "parcial1": 0,
-    "parcial2": 0
-  },
-  {
-    "clave_materia": "003",
-    "nombre_materia": "Fundamentos de TI",
-    "total_dias": 23,
-    "parcial1": 1,
-    "parcial2": 1
-  },
-  {
-    "clave_materia": "004",
-    "nombre_materia": "Base de datos",
-    "total_dias": 16,
-    "parcial1": 0,
-    "parcial2": 0
-  },
-  {
-    "clave_materia": "004",
-    "nombre_materia": "Algoritmos y Estructuras de Datos",
-    "total_dias": 23,
-    "parcial1": 1,
-    "parcial2": 0
-  },
-  {
-    "clave_materia": "004",
-    "nombre_materia": "Sistemas y Organizaciones",
-    "total_dias": 20,
-    "parcial1": 2,
-    "parcial2": 0
-  }
+[{
+		"periodo": "Enero-Junio 2016",
+		"materias": [{
+				"clave_materia": "mate001",
+				"nombre_materia": "Comercio Electrónico",
+				"total_dias": 25,
+				"faltas": 0,
+				"asistencias": 2
+			},
+			{
+				"clave_materia": "002",
+				"nombre_materia": "Álgebra Lineal",
+				"total_dias": 15,
+				"faltas": 0,
+				"asistencias": 0
+			},
+			{
+				"clave_materia": "003",
+				"nombre_materia": "Fundamentos de TI",
+				"total_dias": 23,
+				"faltas": 1,
+				"asistencias": 1
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Base de datos",
+				"total_dias": 16,
+				"faltas": 0,
+				"asistencias": 0
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Algoritmos y Estructuras de Datos",
+				"total_dias": 23,
+				"faltas": 1,
+				"asistencias": 0
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Sistemas y Organizaciones",
+				"total_dias": 20,
+				"faltas": 2,
+				"asistencias": 0
+			}
+		]
+	},
+	{
+		"periodo": "Agosto-Diciembre 2016",
+		"materias": [{
+				"clave_materia": "mate001",
+				"nombre_materia": "Comercio Electrónico",
+				"total_dias": 20,
+				"faltas": 1,
+				"asistencias": 12
+			},
+			{
+				"clave_materia": "002",
+				"nombre_materia": "Álgebra Lineal",
+				"total_dias": 15,
+				"faltas": 0,
+				"asistencias": 13
+			},
+			{
+				"clave_materia": "003",
+				"nombre_materia": "Fundamentos de TI",
+				"total_dias": 18,
+				"faltas": 2,
+				"asistencias": 10
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Base de datos",
+				"total_dias": 16,
+				"faltas": 0,
+				"asistencias": 13
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Algoritmos y Estructuras de Datos",
+				"total_dias": 23,
+				"faltas": 1,
+				"asistencias": 12
+			},
+			{
+				"clave_materia": "004",
+				"nombre_materia": "Sistemas y Organizaciones",
+				"total_dias": 20,
+				"faltas": 2,
+				"asistencias": 11
+			}
+		]
+	}
 ]
