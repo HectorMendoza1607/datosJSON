@@ -1,5 +1,5 @@
 [{
-		"periodo": "Enero-Junio 2016",
+		"ciclo": "Enero-Junio 2016",
 		"materias": [{
 				"clave_materia": "mate001",
 				"nombre_materia": "Comercio Electrónico",
@@ -45,7 +45,7 @@
 		]
 	},
 	{
-		"periodo": "Agosto-Diciembre 2016",
+		"ciclo": "Agosto-Diciembre 2016",
 		"materias": [{
 				"clave_materia": "mate001",
 				"nombre_materia": "Comercio Electrónico",
