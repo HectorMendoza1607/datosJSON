@@ -1,0 +1,76 @@
+[
+  {
+	"ciclo": "Enero-Junio 2016",
+	"promedio": "90",
+	"materias": 
+	[
+	  {
+		"clave_materia": "mate001",
+		"nombre_materia": "Comercio Electrónico",
+		"final": 90
+	  },
+	  {
+		"clave_materia": "002",
+		"nombre_materia": "Álgebra Lineal",
+		"final": 90
+	  },
+	  {
+		"clave_materia": "003",
+		"nombre_materia": "Fundamentos de TI",
+		"final": 100
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Base de datos",
+		"final": 90
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Algoritmos y Estructuras de Datos",
+		"final": 90
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Sistemas y Organizaciones",
+		"final": 90
+	  }
+	]
+  },
+  {
+	"ciclo": "Agosto-Diciembre 2016",
+	"promedio": "87",
+	"materias":
+	[
+	  {
+		"clave_materia": "mate001",
+		"nombre_materia": "Comercio Electrónico",
+		"final": 80
+	  },
+	  {
+		"clave_materia": "002",
+		"nombre_materia": "Álgebra Lineal",
+		"final": 100
+	  },
+	  {
+		"clave_materia": "003",
+		"nombre_materia": "Fundamentos de TI",
+		"final": 100
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Base de datos",
+		"final": 80
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Algoritmos y Estructuras de Datos",
+		"final": 90
+	  },
+	  {
+		"clave_materia": "004",
+		"nombre_materia": "Sistemas y Organizaciones",
+		"final": 95
+	  }
+	]
+  }
+]
