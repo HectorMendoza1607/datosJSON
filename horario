@@ -40,7 +40,7 @@
                               "fin": "1155",
                               "lunes": null,
                               "martes": null,
-                              "miercoles": null,
+                              "miercoles": "W",
                               "jueves": null,
                               "viernes": "F",
                               "sabado": null,
