@@ -81,30 +81,6 @@
 				"horas": [{
 					"hora": "08:40 - 09:30"
 				}]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-
-				}]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-
-				}]
 			}
 		]
 	},
