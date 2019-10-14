@@ -1,189 +1,542 @@
-[{
-		"materia": "Comercio Electrónico",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-						"hora": "07:00 - 07:50"
-					},
-					{
-						"hora": "14:00 - 15:00"
-					}
-				]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-					"hora": "10:40 - 11:30"
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-						"hora": "08:40 - 09:00"
-					},
-					{
-						"hora": "14:00 - 15:00"
-					}
-				]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-					"hora": "11:30 - 12:20"
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-					"hora": "08:40 - 09:30"
-				}]
-			}
-		]
-	},
-	{
-		"materia": "Álgebra Lineal",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-					"hora": "07:00 - 07:50"
-				}]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-					"hora": "07:50 - 08:40"
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-					"hora": "11:30 - 13:20"
-				}]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-					"hora": "08:40 - 09:30"
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-					"hora": "14:10 - 15:00"
-				}]
-			}
-		]
-	},
-	{
-		"materia": "Fundamentos de TI",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-					"hora": "08:40 - 09:30"
-				}]
-			}
-		]
-	},
-	{
-		"materia": "Base de datos",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-					"hora": "09:50 - 10:40"
-				}]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-					"hora": "11:30 - 12:20"
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-					"hora": "09:50 - 10:40"
-				}]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-					"hora": "09:50 - 10:40"
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-					"hora": "10:40 - 11:30"
-				}]
-			}
-		]
-	},
-	{
-		"materia": "Algoritmos y Estructuras de Datos",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-					"hora": "10:40 - 11:30"
-				}]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-					"hora": "14:10 - 15:00"
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-					"hora": "10:40 - 11:30"
-				}]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-					"hora": "12:30 - 13:20"
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-					"hora": "11:30 - 12:20"
-				}]
-			}
-		]
-	},
-	{
-		"materia": "Sistemas y Organizaciones",
-		"dias": [{
-				"dia": "Lunes",
-				"horas": [{
-					"hora": "11:30 - 12:20"
-				}]
-			},
-			{
-				"dia": "Martes",
-				"horas": [{
-					"hora": "08:40 - 09:30"
-				}]
-			},
-			{
-				"dia": "Miercoles",
-				"horas": [{
-					"hora": "13:20 - 14:10"
-				}]
-			},
-			{
-				"dia": "Jueves",
-				"horas": [{
-					"hora": "10:40 - 11:30"
-				}]
-			},
-			{
-				"dia": "Viernes",
-				"horas": [{
-					"hora": "09:50 - 10:40"
-				}]
-			}
-		]
-	}
-]
+{
+  "data": {
+    "persona": {
+      "nombre": "Andres Alberto",
+      "boletas": {
+        "edges": [
+          {
+            "node": {
+              "periodo": {
+                "nombre": "Periodo May-Ago 2007",
+                "clave": "200740"
+              },
+              "materias": {
+                "edges": [
+                  {
+                    "node": {
+                      "materia": "ADEM0730",
+                      "titulo": "Desarrollo Organizacional",
+                      "tituloLargo": "Desarrollo Organizacional",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "3680",
+                              "inicio": "1000",
+                              "fin": "1155",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          },
+                          {
+                            "node": {
+                              "seq": "3681",
+                              "inicio": "1100",
+                              "fin": "1155",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM0732",
+                      "titulo": "Administracion de Negocios",
+                      "tituloLargo": "ADMINISTRACION DE NEGOCIOS",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "3683",
+                              "inicio": "0900",
+                              "fin": "1055",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          },
+                          {
+                            "node": {
+                              "seq": "3682",
+                              "inicio": "1000",
+                              "fin": "1055",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM0940",
+                      "titulo": "Mercados Internacionales",
+                      "tituloLargo": "Mercados Internacionales",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "3694",
+                              "inicio": "0700",
+                              "fin": "0855",
+                              "lunes": "M",
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          },
+                          {
+                            "node": {
+                              "seq": "3695",
+                              "inicio": "0700",
+                              "fin": "0755",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM0942",
+                      "titulo": "Derecho Fiscal",
+                      "tituloLargo": "Derecho Fiscal",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "3696",
+                              "inicio": "0800",
+                              "fin": "0955",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          },
+                          {
+                            "node": {
+                              "seq": "3697",
+                              "inicio": "0900",
+                              "fin": "0955",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "METO0906",
+                      "titulo": "Proyecto Terminal II",
+                      "tituloLargo": "Proyecto Terminal II",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "4347",
+                              "inicio": "0700",
+                              "fin": "0855",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          },
+                          {
+                            "node": {
+                              "seq": "4343",
+                              "inicio": "0800",
+                              "fin": "0855",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "HUMA0506",
+                      "titulo": "Etica Profesional",
+                      "tituloLargo": "Etica Profesional",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "4352",
+                              "inicio": "1200",
+                              "fin": "1355",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM0941",
+                      "titulo": "Apertura de Negocios",
+                      "tituloLargo": "Apertura de Negocios",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "6556",
+                              "inicio": "1900",
+                              "fin": "2155",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "periodo": {
+                "nombre": "Cuatrimestre Sep-Dic",
+                "clave": "200680"
+              },
+              "materias": {
+                "edges": [
+                  {
+                    "node": {
+                      "materia": "ADEM0943",
+                      "titulo": "Administracion de la Produccio",
+                      "tituloLargo": "ADMINISTRACION DE LA PRODUCCION",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "297867",
+                              "inicio": "1030",
+                              "fin": "1155",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "HUMA0706",
+                      "titulo": "Liderazgo y Direccion",
+                      "tituloLargo": "LIDERAZGO Y DIRECCION",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298179",
+                              "inicio": "1030",
+                              "fin": "1155",
+                              "lunes": "M",
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM0836",
+                      "titulo": "Direccion Estrategica",
+                      "tituloLargo": "Direccion Estrategica",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298185",
+                              "inicio": "1200",
+                              "fin": "1325",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM5008",
+                      "titulo": "Marco Legal de los Recursos Hu",
+                      "tituloLargo": "MARCO LEGAL DE LOS RECURSOS HUMANOS",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298190",
+                              "inicio": "1330",
+                              "fin": "1455",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM5011",
+                      "titulo": "Marco Legal del Sistema Financ",
+                      "tituloLargo": "MARCO LEGAL DEL SISTEMA FINANCIERO",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298197",
+                              "inicio": "1200",
+                              "fin": "1325",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "METO0405",
+                      "titulo": "Fuentes de Informacion",
+                      "tituloLargo": "FUENTES DE INFORMACION",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298454",
+                              "inicio": "1330",
+                              "fin": "1455",
+                              "lunes": "M",
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "ADEM5007",
+                      "titulo": "Reclutamiento, Seleccion e Ind",
+                      "tituloLargo": "RECLUTAMIENTO, SELECCION E INDUCCION DE PERSONAL",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "299629",
+                              "inicio": "0830",
+                              "fin": "0955",
+                              "lunes": "M",
+                              "martes": null,
+                              "miercoles": "W",
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "METO0806",
+                      "titulo": "Proyecto Terminal I",
+                      "tituloLargo": "Proyecto Terminal I",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "298466",
+                              "inicio": "2100",
+                              "fin": "2225",
+                              "lunes": null,
+                              "martes": "T",
+                              "miercoles": null,
+                              "jueves": "R",
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "node": {
+                      "materia": "LENG0005",
+                      "titulo": "Intermediate 2",
+                      "tituloLargo": "INTERMEDIATE 2",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "299624",
+                              "inicio": "1000",
+                              "fin": "1255",
+                              "lunes": null,
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": "F",
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "periodo": {
+                "nombre": "Periodo Ene-Abr 2007",
+                "clave": "200720"
+              },
+              "materias": {
+                "edges": [
+                  {
+                    "node": {
+                      "materia": "LENF0601",
+                      "titulo": "Estadia",
+                      "tituloLargo": "ESTADIA",
+                      "horarios": {
+                        "edges": [
+                          {
+                            "node": {
+                              "seq": "1405",
+                              "inicio": "1600",
+                              "fin": "1855",
+                              "lunes": "M",
+                              "martes": null,
+                              "miercoles": null,
+                              "jueves": null,
+                              "viernes": null,
+                              "sabado": null,
+                              "domingo": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
