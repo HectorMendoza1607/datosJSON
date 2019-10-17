@@ -1,0 +1,10 @@
+{
+  "data": {
+    "persona": {
+      "nombre": "Andres Alberto",
+      "boletas": {
+        "edges": []
+      }
+    }
+  }
+}
