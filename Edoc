@@ -13,8 +13,8 @@
 						"codigo": "INSC",
 						"monto": 3005,
 						"tipo": "C",
-						"pagado": "Y",
-						"balance": 0,
+						"pagado": "N",
+						"balance": 3005,
 						"periodo": {
 							"nombre": "Cuatrimestre May-Ago 201940",
 							"clave": "201940",
@@ -46,13 +46,13 @@
 					"node": {
 						"descripcion": "Colegiatura 2",
 						"vencimiento": "2019-07-04T00:00:00",
-						"vencido": "Y",
+						"vencido": "N",
 						"txno": "205",
 						"codigo": "CO02",
 						"monto": 3005,
 						"tipo": "C",
-						"pagado": "Y",
-						"balance": 0,
+						"pagado": "N",
+						"balance": 3005,
 						"periodo": {
 							"nombre": "Cuatrimestre May-Ago 201940",
 							"clave": "201940",
@@ -84,7 +84,7 @@
 					"node": {
 						"descripcion": "Pago de Inscripciones",
 						"vencimiento": "2019-05-09T00:00:00",
-						"vencido": "Y",
+						"vencido": "N",
 						"txno": "202",
 						"codigo": "PINS",
 						"monto": 1004.5,
@@ -103,13 +103,13 @@
 					"node": {
 						"descripcion": "Pago de Inscripciones",
 						"vencimiento": "2019-04-17T00:00:00",
-						"vencido": "Y",
+						"vencido": "N",
 						"txno": "199",
 						"codigo": "PINS",
 						"monto": 1700,
 						"tipo": "P",
-						"pagado": "Y",
-						"balance": 0,
+						"pagado": "N",
+						"balance": 1700,
 						"periodo": {
 							"nombre": "Cuatrimestre May-Ago 201940",
 							"clave": "201940",
@@ -336,8 +336,8 @@
 						"codigo": "CDET",
 						"monto": 630,
 						"tipo": "C",
-						"pagado": "Y",
-						"balance": 0,
+						"pagado": "N",
+						"balance": 630,
 						"periodo": {
 							"nombre": "Cuatrimestre May-Ago 201940",
 							"clave": "201940",
@@ -350,7 +350,7 @@
 					"node": {
 						"descripcion": "Cargo de Titulacion",
 						"vencimiento": "2019-06-10T00:00:00",
-						"vencido": "Y",
+						"vencido": "N",
 						"txno": "212",
 						"codigo": "CDET",
 						"monto": 630,
