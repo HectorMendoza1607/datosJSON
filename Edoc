@@ -1,0 +1,472 @@
+{
+	"data": {
+		"persona": {
+			"nombre": "Cesar Omar",
+			"apellidos": "Canal*Lopez",
+			"transacciones": {
+				"edges": [{
+					"node": {
+						"descripcion": "Cargo de Inscripcion",
+						"vencimiento": "2019-05-13T00:00:00",
+						"vencido": "Y",
+						"txno": "207",
+						"codigo": "INSC",
+						"monto": 3005,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Colegiatura 1",
+						"vencimiento": "2019-06-10T00:00:00",
+						"vencido": "Y",
+						"txno": "204",
+						"codigo": "CO01",
+						"monto": 3005,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Colegiatura 2",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "205",
+						"codigo": "CO02",
+						"monto": 3005,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Colegiatura 3",
+						"vencimiento": "2019-08-05T00:00:00",
+						"vencido": "Y",
+						"txno": "206",
+						"codigo": "CO03",
+						"monto": 3005,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Inscripciones",
+						"vencimiento": "2019-05-09T00:00:00",
+						"vencido": "Y",
+						"txno": "202",
+						"codigo": "PINS",
+						"monto": 1004.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Inscripciones",
+						"vencimiento": "2019-04-17T00:00:00",
+						"vencido": "Y",
+						"txno": "199",
+						"codigo": "PINS",
+						"monto": 1700,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Adeudo",
+						"vencimiento": "2019-05-09T00:00:00",
+						"vencido": "Y",
+						"txno": "203",
+						"codigo": "PAGO",
+						"monto": 0.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de colegiatura 1",
+						"vencimiento": "2019-06-10T00:00:00",
+						"vencido": "Y",
+						"txno": "216",
+						"codigo": "PC01",
+						"monto": 2704,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de colegiatura 2",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "219",
+						"codigo": "PC02",
+						"monto": 2704.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de colegiatura 3",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "220",
+						"codigo": "PC03",
+						"monto": 2704.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-08-28T00:00:00",
+						"vencido": "Y",
+						"txno": "222",
+						"codigo": "PDET",
+						"monto": 6135,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": -6135,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "221",
+						"codigo": "PDET",
+						"monto": 630,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": -630,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "218",
+						"codigo": "PDET",
+						"monto": 630,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": -630,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "217",
+						"codigo": "PDET",
+						"monto": 1260,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-06-10T00:00:00",
+						"vencido": "Y",
+						"txno": "215",
+						"codigo": "PDET",
+						"monto": 630,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Pago de Titulacion",
+						"vencimiento": "2019-05-09T00:00:00",
+						"vencido": "Y",
+						"txno": "201",
+						"codigo": "PDET",
+						"monto": 630,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Cargo de Titulacion",
+						"vencimiento": "2019-08-05T00:00:00",
+						"vencido": "Y",
+						"txno": "214",
+						"codigo": "CDET",
+						"monto": 630,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Cargo de Titulacion",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "213",
+						"codigo": "CDET",
+						"monto": 630,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Cargo de Titulacion",
+						"vencimiento": "2019-06-10T00:00:00",
+						"vencido": "Y",
+						"txno": "212",
+						"codigo": "CDET",
+						"monto": 630,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "Cargo de Titulacion",
+						"vencimiento": "2019-05-10T09:12:00",
+						"vencido": "Y",
+						"txno": "200",
+						"codigo": "CDET",
+						"monto": 630,
+						"tipo": "C",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "BECA",
+						"vencimiento": "2019-05-13T00:00:00",
+						"vencido": "Y",
+						"txno": "208",
+						"codigo": "B960",
+						"monto": 300.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "BECA",
+						"vencimiento": "2019-06-10T00:00:00",
+						"vencido": "Y",
+						"txno": "209",
+						"codigo": "B961",
+						"monto": 300.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "BECA",
+						"vencimiento": "2019-07-04T00:00:00",
+						"vencido": "Y",
+						"txno": "210",
+						"codigo": "B962",
+						"monto": 300.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}, {
+					"node": {
+						"descripcion": "BECA",
+						"vencimiento": "2019-08-05T00:00:00",
+						"vencido": "Y",
+						"txno": "211",
+						"codigo": "B963",
+						"monto": 300.5,
+						"tipo": "P",
+						"pagado": "Y",
+						"balance": 0,
+						"periodo": {
+							"nombre": "Cuatrimestre May-Ago 201940",
+							"clave": "201940",
+							"__typename": "Periodo"
+						},
+						"__typename": "Transaccion"
+					},
+					"__typename": "TransaccionEdge"
+				}],
+				"__typename": "TransaccionConnection"
+			},
+			"__typename": "Persona"
+		}
+	},
+	"loading": false,
+	"networkStatus": 7,
+	"stale": false
+}
