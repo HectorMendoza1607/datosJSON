@@ -6,18 +6,18 @@
 			"transacciones": {
 				"edges": [{
 					"node": {
-						"descripcion": "Cargo de Inscripcion",
-						"vencimiento": "2019-05-13T00:00:00",
+						"descripcion": "Prueba ene may",
+						"vencimiento": "2019-10-20T00:00:00",
 						"vencido": "Y",
 						"txno": "207",
 						"codigo": "INSC",
 						"monto": 3005,
 						"tipo": "C",
-						"pagado": "Y",
+						"pagado": "N",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201940",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201940",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
