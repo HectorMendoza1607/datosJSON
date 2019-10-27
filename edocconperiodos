@@ -35,8 +35,8 @@
 						"pagado": "N",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201920",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201920",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
@@ -54,8 +54,8 @@
 						"pagado": "Y",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201920",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201920",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
@@ -111,8 +111,8 @@
 						"pagado": "Y",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201940",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201940",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
@@ -206,8 +206,8 @@
 						"pagado": "Y",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201940",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201940",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
@@ -225,8 +225,8 @@
 						"pagado": "Y",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201940",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201940",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
@@ -244,8 +244,8 @@
 						"pagado": "Y",
 						"balance": 0,
 						"periodo": {
-							"nombre": "Cuatrimestre May-Ago 201940",
-							"clave": "201940",
+							"nombre": "Cuatrimestre Ene-May 201940",
+							"clave": "201920",
 							"__typename": "Periodo"
 						},
 						"__typename": "Transaccion"
