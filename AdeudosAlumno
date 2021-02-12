@@ -1,0 +1,155 @@
+[
+	{
+		"Informacion_curricular": [
+			{
+				"Flujo": "RI",
+				"VPDI": "UNID",
+				"FolioNI": "",
+				"Matricula": "00002337",
+				"Nombre_Estudiante": "David",
+				"Apellidos_Estudiante": "Pacheco Arzate",
+				"Nivel": "LI",
+				"id_Carrera": "LIC-ADEM-02",
+				"Descripcion_Carrera": "Lic. Admon de Empresas (2002)",
+				"Periodo_Actual": "200580",
+				"Periodo_inscrito": "200580",
+				"Cve_Universidad": "TLA",
+				"Universidad": "SEDE TLALNEPANTLA",
+				"Estatus_Alumno": "AS",
+				"Plan": "C",
+				"Modalidad": "PRESENCIAL",
+				"Tipo_Alumno": "RI",
+				"Becado": "N",
+				"UltimoHA": "200760",
+				"ind_Hold": "N"
+			}
+		],
+		"Datos_de_contacto": [
+			{
+				"Telefono": "7620938",
+				"e_mail": "",
+				"Telefono_celular": ""
+			}
+		],
+		"Adeudos_pendientes": [
+			{
+				"Periodo": "200760",
+				"Cargos": [
+					{
+						"Secuencia": "1",
+						"Clave": "CO01",
+						"Descripcion": "Colegiatura 1",
+						"Fecha_vencimiento": "15/10/2020",
+						"Monto": "5308",
+						"Agrupador": "ACO01",
+						"Obligatorio": "S",
+						"aPagar": "S"
+					},
+					{
+						"Secuencia": "2",
+						"Clave": "CO02",
+						"Descripcion": "Colegiatura 2",
+						"Fecha_vencimiento": "15/11/2020",
+						"Monto": "5308",
+						"Agrupador": "7",
+						"Obligatorio": "N",
+						"aPagar": "N"
+					},
+					{
+						"Secuencia": "3",
+						"Clave": "CO03",
+						"Descripcion": "Colegiatura 3",
+						"Fecha_vencimiento": "10/12/2020",
+						"Monto": "5308",
+						"Agrupador": "8",
+						"Obligatorio": "N",
+						"aPagar": "N"
+					},
+					{
+						"Secuencia": "4",
+						"Clave": "CDET",
+						"Descripcion": "Cargo de Titulación",
+						"Fecha_vencimiento": "",
+						"Monto": "506",
+						"Agrupador": "SnoGpo",
+						"Obligatorio": "N",
+						"aPagar": "S"
+					},
+					{
+						"Secuencia": "5",
+						"Clave": "CDET",
+						"Descripcion": "Cargo de Titulación",
+						"Fecha_vencimiento": "",
+						"Monto": "504",
+						"Agrupador": "SnoGpo",
+						"Obligatorio": "N",
+						"aPagar": "S"
+					}
+				]
+			}
+		],
+		"Pago_de_Reinscripción": [
+			{
+				"Periodo": "202060",
+				"Cargos": [
+					{
+						"Secuencia": "6",
+						"Clave": "INSC",
+						"Descripcion": "Cargo de Inscripción",
+						"Fecha_vencimiento": "30/10/2020",
+						"Monto": "5673.2",
+						"Agrupador": "InoGpo",
+						"Obligatorio": "N",
+						"aPagar": "N"
+					},
+					{
+						"Secuencia": "7",
+						"Clave": "REIN",
+						"Descripcion": "Recargo de Reinscripción",
+						"Fecha_vencimiento": "30/10/2020",
+						"Monto": "300",
+						"Agrupador": "RnoGpo",
+						"Obligatorio": "N",
+						"aPagar": "N"
+					},
+					{
+						"Secuencia": "8",
+						"Clave": "PPAG",
+						"Descripcion": "Pronto Pago de Colegiaturas",
+						"Fecha_vencimiento": "30/10/2020",
+						"Monto": "14971.83",
+						"Agrupador": "PnoGpo",
+						"Obligatorio": "N",
+						"aPagar": "N"
+					}
+				]
+			}
+		],
+		"Servicios": [
+			{
+				"Secuencia": "9",
+				"Periodo": "202060",
+				"Clave": "CSEG",
+				"Descripcion": "Servicio educación garantizada",
+				"Monto": "288",
+				"Agrupador": "ZnoGpo",
+				"Obligatorio": "N",
+				"aPagar": "S"
+			},
+			{
+				"Secuencia": "10",
+				"Periodo": "202060",
+				"Clave": "CSDE",
+				"Descripcion": "Cargo servicio por desempleo",
+				"Monto": "288",
+				"Agrupador": "ZnoGpo",
+				"Obligatorio": "N",
+				"aPagar": "S"
+			}
+		],
+		"Mensajes": [],
+		"Monto_Pendiente": "16934",
+		"Monto_Total_Reinscripcion": "20945.03",
+		"Monto_a_Pagar": ""
+	}
+]
