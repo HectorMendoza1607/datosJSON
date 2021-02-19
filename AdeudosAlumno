@@ -42,8 +42,8 @@
 						"Fecha_vencimiento": "15/10/2020",
 						"Monto": "5308",
 						"Agrupador": "ACO01",
-						"Obligatorio": "S",
-						"aPagar": "S"
+						"Obligatorio": "N",
+						"aPagar": "N"
 					},
 					{
 						"Secuencia": "2",
