@@ -42,8 +42,8 @@
 						"Fecha_vencimiento": "15/10/2020",
 						"Monto": "5308",
 						"Agrupador": "ACO01",
-						"Obligatorio": "N",
-						"aPagar": "N"
+						"Obligatorio": "S",
+						"aPagar": "S"
 					},
 					{
 						"Secuencia": "2",
@@ -72,7 +72,7 @@
 						"Fecha_vencimiento": "",
 						"Monto": "506",
 						"Agrupador": "SnoGpo",
-						"Obligatorio": "N",
+						"Obligatorio": "S",
 						"aPagar": "S"
 					},
 					{
